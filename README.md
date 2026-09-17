@@ -15,9 +15,7 @@ La versione del codice corrispondente a quella utilizzata per ottenere i risulta
 
 # Riferimento
 
-Il codice è associato alla tesi di laurea:
-
-"Asset Allocation Tattica e selezione degli ETF: sviluppo e valutazione di una strategia momentum-based per un robo-advisor"
+Il codice è associato alla tesi di laurea dal titolo: "Asset Allocation Tattica e selezione degli ETF: sviluppo e valutazione di una strategia momentum-based per un robo-advisor"
 
 Daniele Dallavalle  
 Corso di laurea in Economia e Finanza  
