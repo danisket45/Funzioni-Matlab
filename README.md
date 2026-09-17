@@ -19,7 +19,7 @@ Il codice è associato alla tesi di laurea:
 
 "Asset Allocation Tattica e selezione degli ETF: sviluppo e valutazione di una strategia momentum-based per un robo-advisor"
 
-Daniele Dallavalle
-Economia e Finanza
-Università degli studi di Milano-Bicocca
+Daniele Dallavalle  
+Corso di laurea in Economia e Finanza  
+Università degli studi di Milano-Bicocca  
 A.A. 2025-2026
