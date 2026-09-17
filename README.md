@@ -4,13 +4,16 @@ Questo repository contiene le funzioni MATLAB utilizzate unitamente allo script 
 per ottenere i risultati (tabelle/grafici) presentati nella tesi di laurea.
 
 
-# Struttura del repository
+## Struttura del repository
+
 .
-├── funzioni/
-│   ├── funzione_1.m
-│   ├── funzione_2.m
-│   └── ...
-└── README.md
+├── README.md
+├── aggregate_weights_by_assetclass.m
+├── apply_dual_momentum_filter.m
+├── apply_volatility_scaling_to_weights.m
+├── apply_volatility_scaling_v2.m
+├── build_daily_portfolio_returns.m
+└── ...
 
 
 # Utilizzo
