@@ -1,24 +1,11 @@
 # Codice MATLAB – Tesi di laurea
 
-Questo repository contiene le funzioni MATLAB utilizzate unitamente allo script principale (in Appendice)
-per ottenere i risultati (tabelle/grafici) presentati nella tesi di laurea.
-
-
-## Struttura del repository
-
-.
-├── README.md
-├── aggregate_weights_by_assetclass.m
-├── apply_dual_momentum_filter.m
-├── apply_volatility_scaling_to_weights.m
-├── apply_volatility_scaling_v2.m
-├── build_daily_portfolio_returns.m
-└── ...
+Questo repository contiene le funzioni MATLAB utilizzate unitamente allo script principale per ottenere i risultati (tabelle/grafici) presentati nella tesi di laurea.
 
 
 # Utilizzo
 
-Le funzioni contenute nella cartella funzioni/ sono richiamate dallo script principale riportato nell'Appendice B.1 della tesi.
+Le funzioni sono richiamate dallo script principale riportato nell'Appendice B.1 della tesi.
 
 
 # Versione del codice
